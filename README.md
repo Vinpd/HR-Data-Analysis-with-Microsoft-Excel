@@ -29,27 +29,27 @@ Data Organization Create an Excel spreadsheet and name it appropriately. Organiz
 ___
 <h3>Visualizations</h3>
 
-Total Employees by Gender
-A donut chart displays the percentage of male and female employees in the organization.
+1.Total Employees by Gender:   
+      A donut chart displays the percentage of male and female employees in the organization.
 
-Education-wise Attrition
-Shows the number of employees who left the organization categorized by their education level.
+2.Education-wise Attrition:   
+   Shows the number of employees who left the organization categorized by their education level.
 
-Attrition by Job Role
-Highlights the top 5 roles with the highest attrition, allowing for targeted retention strategies.
+3.Attrition by Job Role:  
+   Highlights the top 5 roles with the highest attrition, allowing for targeted retention strategies.
 
-Department-wise Attrition
-A pie chart showing attrition percentage by department, with insights on departments with the highest turnover rates.
+4.Department-wise Attrition:    
+   A pie chart showing attrition percentage by department, with insights on departments with the highest turnover rates.
 
-Attrition by Age Group
-A bar chart categorizing attrition by different age groups to identify which age demographics are most likely to leave.
+5.Attrition by Age Group:   
+   A bar chart categorizing attrition by different age groups to identify which age demographics are most likely to leave.
 
-Attrition by Marital Status
-Displays attrition counts by marital status, providing insights into personal factors that may influence attrition.
+6.Attrition by Marital Status:    
+   Displays attrition counts by marital status, providing insights into personal factors that may influence attrition.
 ___
 <h3>Filters</h3>
 
-The dashboard also includes slicers for Education Field and Department, allowing users to further analyze attrition based on specific criteria. Technologies Used
+The dashboard also includes slicers for Education Field, Gender and Department, allowing users to further analyze attrition based on specific criteria. Technologies Used
 
 <b>Execl</b>:  For data visualization and dashboard creation  
 <b>Data Processing:</b>  Data cleaned and processed in Excel
@@ -69,9 +69,14 @@ The results of this HR data analytics project include valuable insights into wor
 ___
 <h3>How to Use the Dashboard</h3>
 
-Download the dashboard file from this repository (if applicable).  
+Download the dashboard file from this repository. Use link <a>https://github.com/Vinpd/HR-Data-Analysis-with-Microsoft-Excel/blob/main/HR_data_prep.xlsx</a>
 Open in Excel or Power BI Desktop to interact with the dashboard.  
 Use the slicers to filter data by education field or department.
+___
+
+<h3>Conclusion</h3>
+HR data analytics using Microsoft Excel can provide valuable insights for HR professionals and decision-makers within an organization. Regularly updating and analyzing HR data can lead to improved workforce management, employee satisfaction, and overall organizational performance.
+
 ___
 <h3>Contributing</h3>
 If you have suggestions or improvements, please feel free to create a pull request or open an issue.
